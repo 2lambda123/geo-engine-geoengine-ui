@@ -55,7 +55,7 @@
         "flatgeobuf": "3.27.1",
         "immutable": "~4.3.4",
         "keycharm": "0.4.0",
-        "moment": "~2.29.4",
+        "moment": "~2.30.1",
         "ngx-color-picker": "~16.0.0",
         "ngx-mat-select-search": "~7.0.5",
         "ol-mapbox-style": "~12.1.1",
