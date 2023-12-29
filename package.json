@@ -82,7 +82,7 @@
         "@angular-eslint/schematics": "^17.1.1",
         "@angular-eslint/template-parser": "^17.1.1",
         "@angular/cli": "^17.0.7",
-        "@angular/compiler-cli": "^17.0.7",
+        "@angular/compiler-cli": "^17.0.8",
         "@angular/language-service": "^17.0.7",
         "@types/arcgis-rest-api": "^10.4.8",
         "@types/codemirror": "~5.60.15",
