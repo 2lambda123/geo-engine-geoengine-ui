@@ -71,7 +71,7 @@
         "vis-timeline": "7.7.3",
         "vis-util": "5.0.7",
         "xss": "1.0.14",
-        "zone.js": "~0.14.2"
+        "zone.js": "~0.14.4"
     },
     "devDependencies": {
         "@angular-devkit/architect": "^0.1600.6",
